@@ -11,4 +11,4 @@ Import-Module vSanCompliance
 
 Get-vSanCompliance -json rules.json | ft -autosize
 
-(Make sure you PowerShell windows's width is wide enought to accommodate the results)
+(Make sure your PowerShell windows' width is wide enought to accommodate the results)
