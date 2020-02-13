@@ -1,0 +1,13 @@
+{
+    "Global": {},
+    "Rules": [
+        {
+            "DRS": "DRS Group 1",
+            "vSAN": "vSAN Policy 1"
+        },
+        {
+            "DRS": "DRS Group 2",
+            "vSAN": "vSAN Policy 2"
+        }
+    ]
+}
